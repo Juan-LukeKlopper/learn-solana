@@ -1,14 +1,14 @@
 # Buildspace
 
-This iis a subfolder where I follow along with the projects provided by Buildspace, The only difference is I will try to change the frontend framework from react to svelte.
+This iis a subfolder where I follow along with A project provided by Buildspace, I will try to change the frontend framework from react to svelte.
 
 ## Introduction
 
-- [ ] 🧐 What are we building?
+- [X] 🧐 What are we building?
 
 ## 💻 SETUP YOUR ONLINE STORE
 
-- [ ] 🛠 Grab the client code + get setup
+- [X] 🛠 Grab the client code + get setup
 
 - [ ] 👝 Add 'Connect Wallet' button to your store
 
