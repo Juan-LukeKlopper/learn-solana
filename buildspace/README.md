@@ -4,30 +4,30 @@ This iis a subfolder where I follow along with the projects provided by Buildspa
 
 ## Introduction
 
--[ ] 🧐 What are we building?
+- [ ] 🧐 What are we building?
 
 ## 💻 SETUP YOUR ONLINE STORE
 
--[ ] 🛠 Grab the client code + get setup
+- [ ] 🛠 Grab the client code + get setup
 
--[ ] 👝 Add 'Connect Wallet' button to your store
+- [ ] 👝 Add 'Connect Wallet' button to your store
 
--[ ] 🌐 Fetching items from the back room (IPFS)
+- [ ] 🌐 Fetching items from the back room (IPFS)
 
 ## 🤑 GET PAID
 
--[ ] 🥺 Get paid in SOL tokens
+- [ ] 🥺 Get paid in SOL tokens
 
--[ ] 😳 Get paid in USDC
+- [ ] 😳 Get paid in USDC
 
--[ ] 💳 Turn transactions to payments
+- [ ] 💳 Turn transactions to payments
 
--[ ] 💾 Read from our database
+- [ ] 💾 Read from our database
 
 ## 😈 UPGRADE YOUR STORE
 
--[ ] 🛒 Add items via your app
+- [ ] 🛒 Add items via your app
 
 ## 🥳 FINALIZE AND CELEBRATE
 
--[ ] 🎓 Finishing touches
+- [ ] 🎓 Finishing touches
